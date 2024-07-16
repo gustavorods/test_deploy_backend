@@ -1,4 +1,4 @@
-# For it to work, install:
+# For it to work in localhost, install:
 
 `npm init`
 <br/>
